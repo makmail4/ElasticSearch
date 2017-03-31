@@ -38,3 +38,4 @@ C:\elastic\ElasticSearch\elasticsearch-nest-webapi-angularjs\bin\System.Web.Http
 C:\elastic\ElasticSearch\elasticsearch-nest-webapi-angularjs\bin\System.Web.Http.WebHost.xml
 C:\elastic\ElasticSearch\elasticsearch-nest-webapi-angularjs\obj\Debug\elasticsearch-nest-webapi-angularjs.dll
 C:\elastic\ElasticSearch\elasticsearch-nest-webapi-angularjs\obj\Debug\elasticsearch-nest-webapi-angularjs.pdb
+C:\elastic\ElasticSearch\elasticsearch-nest-webapi-angularjs\obj\Debug\elasticsearch-nest-webapi-angularjs.csprojResolveAssemblyReference.cache
