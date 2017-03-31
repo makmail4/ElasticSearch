@@ -18,9 +18,9 @@ namespace elasticsearch_nest_webapi_angularjs.Services
 
         public static IElasticClient GetClient()
         {
-            var node = new Uri("https://08c9002df605125a7badb91ee1988c9e.us-east-1.aws.found.io:9243");
+            var node = new Uri("https://localhost");
             var settings = new ConnectionSettings(node);
-            settings.BasicAuthentication("elastic", "jBIJdYtKY22O3lKKyf8V0gQo");
+            settings.BasicAuthentication("elastic", "pwd");
             settings.DefaultIndex("stackoverflow");
             settings.DefaultIndex("stackoverflow");
             return new ElasticClient(settings);
